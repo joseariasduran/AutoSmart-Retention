@@ -1,4 +1,3 @@
-# AutoSmart-Retention
 # AutoSmart-Retention: Análisis Predictivo de Posventa Automotriz
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
